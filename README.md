@@ -239,7 +239,7 @@ Slices long surveillance footage into events with transcripts attached.
 📧 [varunshukla747@gmail.com](mailto:varunshukla747@gmail.com) &nbsp;•&nbsp;
 💼 [LinkedIn](https://linkedin.com/in/varun-shukla-codes) &nbsp;•&nbsp;
 🐦 [@TheV_Stack](https://x.com/TheV_Stack) &nbsp;•&nbsp;
-🌐 [Portfolio](https://varunxbuilds.web.app/) &nbsp;•&nbsp;
+🌐 [Portfolio](https://varuncodes.tech/) &nbsp;•&nbsp;
 🏢 [@prodigy-ai-flow](https://github.com/prodigy-ai-flow)
 
 <br/>
